@@ -1,2 +1,2 @@
-# MosesK.github.io
+# MosesKing.github.io
 blog
